@@ -1,4 +1,4 @@
-Hello 'git'
+echo 'git'
 
 echo 'hello'
 
