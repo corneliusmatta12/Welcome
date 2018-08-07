@@ -1,1 +1,5 @@
+
 Hello 'git'
+
+echo hello
+
